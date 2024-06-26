@@ -1,10 +1,12 @@
-# Тестирование CRM-системы "Культ волос" (веб)
+# Тестирование веб-сайта "Stellar Burger"
 
-Я протестировала CRM-систему "Культ волос" и и подготовила тестовую документацию:
+Я протестировала сайт "Stellar Burger" и подготовила тестовую документацию:
 
 - План тестирования, описывающий, что и как тестировать (функции, виды тестирования, инструменты), основные этапы работы, риски.
   
-- [Чек-лист создания заказа
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1cP2ImIgmZriXJlmgOACMKmjXKRXRVK1epyWRZtzFGNc/edit?gid=0#gid=0&range=A2:F71)
   
-- [Тестовые кейсы для end-to-end тестирования.]
-- Пример отчета об ошибке.
+- [Тест- кейсы](https://docs.google.com/spreadsheets/d/1cP2ImIgmZriXJlmgOACMKmjXKRXRVK1epyWRZtzFGNc/edit?gid=357084813#gid=357084813&range=A1:F31)
+  
+- Отчеты об ошибках.
+![image](https://github.com/Nancy2T/kult_volos/assets/110238709/5719f197-845d-414a-81f3-e6598e31daf8)
